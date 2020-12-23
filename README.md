@@ -1,1 +1,1 @@
-This repository has sample codes done while elarning Python OOP
+This repository has codes done while learning Python Object Oriented Programming
